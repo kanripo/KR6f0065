@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:18.557990
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 無量壽經義疏
 #+PROPERTY: CBETA_ID T37n1745
 #+PROPERTY: ID KR6f0065
